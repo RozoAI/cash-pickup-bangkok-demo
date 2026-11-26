@@ -1,0 +1,7 @@
+{
+  "name": "cash-pickup-bangkok-demo",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": { "demo": "node demo.ts", "test": "node --test test/*.test.ts" }
+}
